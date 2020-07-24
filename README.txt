@@ -1,1 +1,1 @@
-My Daily MySQL Exercise on LeedCode!
+My Daily MySQL Exercise on LeetCode!
